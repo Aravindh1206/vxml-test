@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1">
+    <form id="welcome">
+        <block>
+            <prompt>Hello, welcome to our service. Please say something.</prompt>
+        </block>
+    </form>
+</vxml>
+
